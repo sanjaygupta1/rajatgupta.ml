@@ -598,7 +598,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline-body > p,
 .timeline-body > ul {
   margin-bottom: 0;
-  text-align: center;
+  text-align: left;
 }
 
 .timeline-body > p + p {
