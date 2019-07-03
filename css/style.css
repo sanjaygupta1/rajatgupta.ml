@@ -283,6 +283,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-skills,
 #fh5co-started,
 #fh5co-work,
+#my_css_1,
 #fh5co-blog,
 #fh5co-pricing,
 #fh5co-contact {
@@ -295,6 +296,7 @@ h1, h2, h3, h4, h5, h6, figure {
   #fh5co-skills,
   #fh5co-started,
   #fh5co-work,
+  #my_css_1,
   #fh5co-blog,
   #fh5co-pricing,
   #fh5co-contact {
@@ -313,6 +315,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-bg-dark .fh5co-heading h2 {
   color: #fff!important;
 }
+
 
 .info {
   margin: 0;
@@ -1290,5 +1293,20 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0;
 }
-
+#my_css_1{
+  background: rgb(0, 255, 179);
+  color: rgb(228, 15, 217)
+  text-align
+}
+.my_css_1  .my_css_1_heading h2{
+  font-family: "Space Mono", Arial, serif;
+  font-size: 34px;
+  color: rgb(8, 8, 8)!important;
+}
+.my_css_1 .my_css_1_heading h3{
+  color: rgb(22, 228, 15)  
+}
+.my_css_1. span{
+  color: rgb(22, 228, 15)  
+}
 /*# sourceMappingURL=style.css.map */
